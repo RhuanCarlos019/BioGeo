@@ -55,10 +55,8 @@ O projeto visa desenvolver uma aplicação mobile que permita o controle de aces
 ## Prototipagem
 
 ### Baixa Fidelidade
-![ControleAcessoBaixaFidelidade](https://github.com/user-attachments/assets/984fb9c0-0eb1-4a68-95bb-ffc8741842ae)
-
-### Média Fidelidade
-![ControleAcessoMediaFidelidade](https://github.com/user-attachments/assets/2ee00f7e-c81a-4412-a119-4970b3055af4)
+<img width="357" alt="image" src="https://github.com/user-attachments/assets/231e745c-df73-439c-ad89-1174c623a0ab">
 
 ### Alta Fidelidade
-![ControleAcessoAltaFidelidade](https://github.com/user-attachments/assets/65cffb5c-2874-42f0-9649-303a1114f8ee)
+<img width="457" alt="image" src="https://github.com/user-attachments/assets/93d0d811-1b79-4e7e-a40d-b5f3aa593ec0">
+
