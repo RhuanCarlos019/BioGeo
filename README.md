@@ -40,17 +40,6 @@ O projeto visa desenvolver uma aplicação mobile que permita o controle de aces
 
 - **Pessoas:** 4 desenvolvedores.
 - **Tecnologia:** Flutter, Firebase, Geolocator, Local Auth, Android Studio.
-  
-## Diagramas
-
-### Diagrama de Classes
------
-
-### Diagrama de Uso
------
-
-### Diagrama de Fluxo
------
 
 ## Prototipagem
 
