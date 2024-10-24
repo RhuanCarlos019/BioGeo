@@ -44,18 +44,26 @@ O projeto visa desenvolver uma aplicação mobile que permita o controle de aces
 ## Prototipagem
 
 ### Baixa Fidelidade
-#### Tela 1
+- #### Tela 1
 <img width="357" alt="image" src="https://github.com/user-attachments/assets/231e745c-df73-439c-ad89-1174c623a0ab">
 
-#### Tela 2
+- #### Tela 2
 <img width="149" alt="image" src="https://github.com/user-attachments/assets/996b127f-f122-4ca1-a8f8-727aed2711ff">
 
 
-### Alta Fidelidade
-#### Tela 1
+## Alta Fidelidade
+- #### Tela 1
 <img width="457" alt="image" src="https://github.com/user-attachments/assets/93d0d811-1b79-4e7e-a40d-b5f3aa593ec0">
 
-#### Tela 2
+- #### Tela 2
 <img width="143" alt="image" src="https://github.com/user-attachments/assets/2cf4b7f2-74a6-45a1-96ec-0bed8ad99355">
+
+- #### Tela de Configurações
+<img width="160" alt="image" src="https://github.com/user-attachments/assets/e4d3e8df-2fab-45c1-ac04-84ea602d732b">
+
+- #### Tela de localização
+<img width="197" alt="image" src="https://github.com/user-attachments/assets/c805b15b-085e-4fdf-beb4-100d83a20f5b">
+
+
 
 
